@@ -58,4 +58,26 @@ Vous pouvez maintenant vous connecter à la base de données en utilisant un cli
 
 ## Bonus Part ＋
 
-1. Try to find a way to keep your work when you quit your docker compose
+1. Essayez de faire en sorte de sauvegarder les modifications que vous effectuez, ça pourra être utile pour la suite.
+
+2. Si vous avez finis voici d'autre exo pour vous occupez :)
+
+    - Créer une base de données pour enregistrer des informations sur les employés d'une entreprise, y compris le nom, le prénom, le salaire, la date d'embauche, et le département.
+
+    - Ajouter des données à la base de données créée dans l'exercice 1 en utilisant l'instruction INSERT.
+
+    - Afficher les informations de tous les employés de la base de données en utilisant la commande SELECT.
+
+    - Mettre à jour les informations pour un employé spécifique en utilisant la commande UPDATE.
+
+    - Supprimer un employé de la base de données en utilisant la commande DELETE.
+
+    - Créer une requête pour afficher les employés avec un salaire supérieur à une certaine valeur en utilisant la clause WHERE.
+
+    - Créer une requête pour afficher les employés triés par salaire en utilisant l'instruction ORDER BY.
+
+    - Créer une requête pour afficher le nombre total d'employés dans la base de données en utilisant l'instruction COUNT.
+
+    - Créer une vue pour afficher seulement les noms et prénoms des employés en utilisant la commande CREATE VIEW.
+
+    - Créer une procédure stockée pour ajouter un nouvel employé à la base de données en utilisant la commande CREATE FUNCTION.
